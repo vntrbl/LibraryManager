@@ -1,7 +1,3 @@
-// Van Cung
-// CSCE 10240
-// Homework #4
-
 #include <ctime>
 #include <string>
 #include <fstream>
