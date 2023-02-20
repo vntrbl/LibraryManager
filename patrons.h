@@ -1,7 +1,3 @@
-// Van Cung
-// CSCE 10240
-// Homework #4
-
 #include <vector>
 #include <string> 
 #include <iostream>
