@@ -1,7 +1,3 @@
-// Van Cung
-// CSCE 1040
-// Homework #4
-
 #include <string>
 #include <iostream>
 using namespace std;
